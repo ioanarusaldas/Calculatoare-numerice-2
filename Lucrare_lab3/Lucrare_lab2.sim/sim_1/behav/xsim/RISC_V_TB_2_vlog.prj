@@ -1,0 +1,31 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Lucrare_lab2.srcs/sources_1/new/ALU.v" \
+"../../../../Lucrare_lab2.srcs/sources_1/new/ALUcontrol.v" \
+"../../../../Lucrare_lab2.srcs/sources_1/new/EX.v" \
+"../../../../Lucrare_lab2.srcs/sources_1/new/ID.v" \
+"../../../../Lucrare_lab2.srcs/sources_1/new/IF.v" \
+"../../../../Lucrare_lab2.srcs/sources_1/new/PC.v" \
+"../../../../Lucrare_lab2.srcs/sources_1/new/RISC_V.v" \
+"../../../../Lucrare_lab2.srcs/sources_1/new/adder.v" \
+"../../../../Lucrare_lab2.srcs/sources_1/new/branch.v" \
+"../../../../Lucrare_lab2.srcs/sources_1/new/control_path.v" \
+"../../../../Lucrare_lab2.srcs/sources_1/new/data_memory.v" \
+"../../../../Lucrare_lab2.srcs/sources_1/new/forwarding.v" \
+"../../../../Lucrare_lab2.srcs/sources_1/new/hazard_detection.v" \
+"../../../../Lucrare_lab2.srcs/sources_1/new/imm_gen.v" \
+"../../../../Lucrare_lab2.srcs/sources_1/new/instruction_memory.v" \
+"../../../../Lucrare_lab2.srcs/sources_1/new/mux2_1.v" \
+"../../../../Lucrare_lab2.srcs/sources_1/new/mux4_1.v" \
+"../../../../Lucrare_lab2.srcs/sources_1/new/reg_EX_MEM.v" \
+"../../../../Lucrare_lab2.srcs/sources_1/new/reg_ID_EX.v" \
+"../../../../Lucrare_lab2.srcs/sources_1/new/reg_IF_ID.v" \
+"../../../../Lucrare_lab2.srcs/sources_1/new/reg_MEM_WB.v" \
+"../../../../Lucrare_lab2.srcs/sources_1/new/registers.v" \
+"../../../../Lucrare_lab2.srcs/sim_1/new/RISC_V_TB_2.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

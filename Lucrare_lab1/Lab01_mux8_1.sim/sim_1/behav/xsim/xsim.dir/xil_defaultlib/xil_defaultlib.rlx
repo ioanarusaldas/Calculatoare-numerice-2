@@ -1,0 +1,16 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+D:/FACULTATE III/CN2/Lab01_mux8_1/Lab01_mux8_1.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+D:/FACULTATE III/CN2/Lab01_mux8_1/Lab01_mux8_1.srcs/sim_1/new/Sim_mux81.v,1602950377,verilog,,,,Sim_mux81,,,,,,,,
+D:/FACULTATE III/CN2/Lab01_mux8_1/Lab01_mux8_1.srcs/sim_1/new/sim_pipeline.v,1604007857,verilog,,,,sim_pipeline,,,,,,,,
+D:/FACULTATE III/CN2/Lab01_mux8_1/Lab01_mux8_1.srcs/sim_1/new/sim_registru.v,1603663006,verilog,,,,sim_registru,,,,,,,,
+D:/FACULTATE III/CN2/Lab01_mux8_1/Lab01_mux8_1.srcs/sources_1/new/mux_21.v,1602951086,verilog,,D:/FACULTATE III/CN2/Lab01_mux8_1/Lab01_mux8_1.srcs/sources_1/new/mux_81.v,,mux_21,,,,,,,,
+D:/FACULTATE III/CN2/Lab01_mux8_1/Lab01_mux8_1.srcs/sources_1/new/mux_81.v,1602948262,verilog,,D:/FACULTATE III/CN2/Lab01_mux8_1/Lab01_mux8_1.srcs/sim_1/new/Sim_mux81.v,,mux_81,,,,,,,,
+D:/FACULTATE III/CN2/Lab01_mux8_1/Lab01_mux8_1.srcs/sources_1/new/pipeline.v,1603898047,verilog,,D:/FACULTATE III/CN2/Lab01_mux8_1/Lab01_mux8_1.srcs/sources_1/new/reg_pipeline.v,,pipeline,,,,,,,,
+D:/FACULTATE III/CN2/Lab01_mux8_1/Lab01_mux8_1.srcs/sources_1/new/reg_pipeline.v,1603658473,verilog,,D:/FACULTATE III/CN2/Lab01_mux8_1/Lab01_mux8_1.srcs/sources_1/new/stage1.v,,reg_pipeline,,,,,,,,
+D:/FACULTATE III/CN2/Lab01_mux8_1/Lab01_mux8_1.srcs/sources_1/new/registru.v,1603662574,verilog,,D:/FACULTATE III/CN2/Lab01_mux8_1/Lab01_mux8_1.srcs/sim_1/new/sim_registru.v,,registru,,,,,,,,
+D:/FACULTATE III/CN2/Lab01_mux8_1/Lab01_mux8_1.srcs/sources_1/new/stage1.v,1603659748,verilog,,D:/FACULTATE III/CN2/Lab01_mux8_1/Lab01_mux8_1.srcs/sources_1/new/stage2.v,,stage1,,,,,,,,
+D:/FACULTATE III/CN2/Lab01_mux8_1/Lab01_mux8_1.srcs/sources_1/new/stage2.v,1603659766,verilog,,D:/FACULTATE III/CN2/Lab01_mux8_1/Lab01_mux8_1.srcs/sources_1/new/stage3.v,,stage2,,,,,,,,
+D:/FACULTATE III/CN2/Lab01_mux8_1/Lab01_mux8_1.srcs/sources_1/new/stage3.v,1603659830,verilog,,D:/FACULTATE III/CN2/Lab01_mux8_1/Lab01_mux8_1.srcs/sim_1/new/sim_pipeline.v,,stage3,,,,,,,,

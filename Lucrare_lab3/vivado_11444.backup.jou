@@ -1,0 +1,17 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Sun Jan  3 19:48:46 2021
+# Process ID: 11444
+# Current directory: D:/FACULTATE III/CN2/Lucrare_lab3
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent10948 D:\FACULTATE III\CN2\Lucrare_lab3\Lucrare_lab2.xpr
+# Log file: D:/FACULTATE III/CN2/Lucrare_lab3/vivado.log
+# Journal file: D:/FACULTATE III/CN2/Lucrare_lab3\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {D:/FACULTATE III/CN2/Lucrare_lab3/Lucrare_lab2.xpr}
+update_compile_order -fileset sources_1
+close [ open {D:/FACULTATE III/CN2/Lucrare_lab3/Lucrare_lab2.srcs/sources_1/new/reg_ID_EX.v} w ]
+add_files {{D:/FACULTATE III/CN2/Lucrare_lab3/Lucrare_lab2.srcs/sources_1/new/reg_ID_EX.v}}
+update_compile_order -fileset sources_1

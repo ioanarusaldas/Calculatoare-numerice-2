@@ -1,0 +1,20 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+D:/FACULTATE III/CN2/Lucrare2/Lucrare2/test_riscv.v,1604231388,verilog,,,,RISC_V_TB,,,,,,,,
+D:/FACULTATE III/CN2/Lucrare_lab2/Lucrare_lab2.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+D:/FACULTATE III/CN2/Lucrare_lab2/Lucrare_lab2.srcs/sim_1/new/sim_adder.v,1604506681,verilog,,D:/FACULTATE III/CN2/Lucrare_lab2/Lucrare_lab2.srcs/sim_1/new/sim_mux.v,,sim_adder,,,,,,,,
+D:/FACULTATE III/CN2/Lucrare_lab2/Lucrare_lab2.srcs/sim_1/new/sim_mux.v,1604502685,verilog,,D:/FACULTATE III/CN2/Lucrare2/Lucrare2/test_riscv.v,,sim_mux,,,,,,,,
+D:/FACULTATE III/CN2/Lucrare_lab2/Lucrare_lab2.srcs/sim_1/new/sim_register.v,1605740578,verilog,,,,sim_register,,,,,,,,
+D:/FACULTATE III/CN2/Lucrare_lab2/Lucrare_lab2.srcs/sim_1/new/sim_registers.v,1605710942,verilog,,,,sim_registers,,,,,,,,
+D:/FACULTATE III/CN2/Lucrare_lab2/Lucrare_lab2.srcs/sources_1/new/ID.v,1606309833,verilog,,D:/FACULTATE III/CN2/Lucrare_lab2/Lucrare_lab2.srcs/sources_1/new/IF.v,,ID,,,,,,,,
+D:/FACULTATE III/CN2/Lucrare_lab2/Lucrare_lab2.srcs/sources_1/new/IF.v,1605738596,verilog,,D:/FACULTATE III/CN2/Lucrare_lab2/Lucrare_lab2.srcs/sources_1/new/PC.v,,IF,,,,,,,,
+D:/FACULTATE III/CN2/Lucrare_lab2/Lucrare_lab2.srcs/sources_1/new/PC.v,1605730228,verilog,,D:/FACULTATE III/CN2/Lucrare_lab2/Lucrare_lab2.srcs/sources_1/new/RISC_V_IF_ID.v,,PC,,,,,,,,
+D:/FACULTATE III/CN2/Lucrare_lab2/Lucrare_lab2.srcs/sources_1/new/RISC_V_IF_ID.v,1605732404,verilog,,D:/FACULTATE III/CN2/Lucrare_lab2/Lucrare_lab2.srcs/sources_1/new/adder.v,,RISC_V_IF_ID,,,,,,,,
+D:/FACULTATE III/CN2/Lucrare_lab2/Lucrare_lab2.srcs/sources_1/new/adder.v,1605730264,verilog,,D:/FACULTATE III/CN2/Lucrare_lab2/Lucrare_lab2.srcs/sources_1/new/imm_gen.v,,adder,,,,,,,,
+D:/FACULTATE III/CN2/Lucrare_lab2/Lucrare_lab2.srcs/sources_1/new/imm_gen.v,1605812065,verilog,,D:/FACULTATE III/CN2/Lucrare_lab2/Lucrare_lab2.srcs/sources_1/new/instruction_memory.v,,imm_gen,,,,,,,,
+D:/FACULTATE III/CN2/Lucrare_lab2/Lucrare_lab2.srcs/sources_1/new/instruction_memory.v,1605732626,verilog,,D:/FACULTATE III/CN2/Lucrare_lab2/Lucrare_lab2.srcs/sources_1/new/mux2_1.v,,instruction_memory,,,,,,,,
+D:/FACULTATE III/CN2/Lucrare_lab2/Lucrare_lab2.srcs/sources_1/new/mux2_1.v,1605731715,verilog,,D:/FACULTATE III/CN2/Lucrare_lab2/Lucrare_lab2.srcs/sources_1/new/reg_IF_ID.v,,mux2_1,,,,,,,,
+D:/FACULTATE III/CN2/Lucrare_lab2/Lucrare_lab2.srcs/sources_1/new/reg_IF_ID.v,1605719281,verilog,,D:/FACULTATE III/CN2/Lucrare_lab2/Lucrare_lab2.srcs/sources_1/new/registers.v,,reg_IF_ID,,,,,,,,
+D:/FACULTATE III/CN2/Lucrare_lab2/Lucrare_lab2.srcs/sources_1/new/registers.v,1605732839,verilog,,D:/FACULTATE III/CN2/Lucrare2/Lucrare2/test_riscv.v,,registers,,,,,,,,
